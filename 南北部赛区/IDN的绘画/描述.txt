@@ -1,0 +1,8 @@
+file3.7z：https://pan.baidu.com/s/1NNcb4QrA6y1y5sF2iTdzTA 提取码为GAME
+md5值为9c26770d174c682d60ddbe66149f9da2 （解压密码将在比赛时对应题目描述里）
+
+IDN·MRF 出生在2082年3月，根据IDN星球规定，每一个IDN人出生时，必须配备唯一的ID，但是粗心的IDN·MRF却把他的ID弄丢了，只留下了一串加密的信息：xn--7nraaa738k9tnba223fba479qe42gda，似乎墙上的画对她也有一定的帮助，好心人，你能帮这个小朋友找回她唯一的ID吗？flag格式为flag{32位字符串}
+
+（本题附件见于提前下载的加密压缩包file3.7z，解压密码为cc42721a3bd4988e6cabea6eb8f622db）
+
+题目提示：需要根据关键字构造字典；密码长度为23位
